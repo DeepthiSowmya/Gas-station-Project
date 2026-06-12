@@ -107,27 +107,26 @@ Supplier → Fuel Details → Gas Station
 
 ### Custom Objects
 
-![Objects](images/custom-objects.png)
+<img width="1896" height="855" alt="Screenshot 2025-08-23 094028" src="https://github.com/user-attachments/assets/9194d1e3-e740-40ed-8819-a3d1b2f0f0fa" />
+
 
 ### Lightning App
 
-![Lightning App](images/lightning-app.png)
+<img width="1910" height="858" alt="Screenshot 2025-08-23 095714" src="https://github.com/user-attachments/assets/1cb6cc5c-ffb4-4110-98cb-dc3decd1560a" />
 
 ### Flow Builder
-
-![Flow Builder](images/flow-builder.png)
+<img width="1905" height="854" alt="Screenshot 2025-08-23 114700" src="https://github.com/user-attachments/assets/8f6addcf-6bc6-417c-a04c-0358bd36f29a" />
 
 ### Apex Trigger
-
-![Apex Trigger](images/apex-trigger.png)
+<img width="1551" height="987" alt="Screenshot 2025-08-23 115431" src="https://github.com/user-attachments/assets/81279a8e-028d-4238-9070-164b2e8a9931" />
 
 ### Reports
+<img width="1851" height="778" alt="Screenshot 2025-08-23 112919" src="https://github.com/user-attachments/assets/272346be-0b46-4b88-938e-172910453026" />
 
-![Reports](images/reports.png)
 
 ### Dashboard
+<img width="1894" height="792" alt="Screenshot 2025-08-23 113939" src="https://github.com/user-attachments/assets/37e2ad5f-10ef-4706-b44f-22d40cb8021f" />
 
-![Dashboard](images/dashboard.png)
 
 ---
 
@@ -149,4 +148,4 @@ B.Tech Data Science
 
 Salesforce Developer (Fresher)
 
-GitHub: Add your GitHub Profile Link
+GitHub: 
