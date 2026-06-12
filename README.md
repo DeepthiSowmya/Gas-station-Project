@@ -148,4 +148,6 @@ B.Tech Data Science
 
 Salesforce Developer (Fresher)
 
-GitHub: 
+GitHub: https://github.com/DeepthiSowmya
+
+Mail: deepthisowmya91@gmail.com
