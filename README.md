@@ -103,8 +103,7 @@ Supplier → Fuel Details → Gas Station
 ## 📷 Project Screenshots
 
 ### Home Page
-
-
+<img width="1877" height="922" alt="Screenshot 2025-08-22 152100" src="https://github.com/user-attachments/assets/7f0d22a7-5551-43e6-a5d4-df2a163f3055" />
 
 ### Custom Objects
 
